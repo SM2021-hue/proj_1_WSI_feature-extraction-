@@ -1,1 +1,1 @@
-# proj_1
+# proj_WSI_Feature Extraction
